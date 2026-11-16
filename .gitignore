@@ -1,0 +1,11 @@
+# Dataset y repositorio de la cátedra (no se suben)
+data/
+_repo_catedra/
+# Modelos y archivos temporales
+*.pth
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
